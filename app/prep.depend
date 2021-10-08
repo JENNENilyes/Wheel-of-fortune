@@ -1,0 +1,355 @@
+# depslib dependency file v1.0
+1587596210 source:g:\codeblocks_workspace\fortune wheel\prep\main.cpp
+	<iostream>
+	"Puzzle.cpp"
+
+1587596199 g:\codeblocks_workspace\fortune wheel\prep\puzzle.cpp
+	"Puzzle.h"
+
+1587596122 g:\codeblocks_workspace\fortune wheel\prep\puzzle.h
+	<bits/stdc++.h>
+
+1587567614 source:c:\users\utilisateur\downloads\prep-20200422t230559z-001\prep\main.cpp
+	<iostream>
+	"Puzzle.cpp"
+	"Player.cpp"
+
+1587567398 c:\users\utilisateur\downloads\prep-20200422t230559z-001\prep\puzzle.cpp
+	"Puzzle.h"
+
+1587567322 c:\users\utilisateur\downloads\prep-20200422t230559z-001\prep\puzzle.h
+	<bits/stdc++.h>
+
+1587567374 c:\users\utilisateur\downloads\prep-20200422t230559z-001\prep\player.cpp
+	"Player.h"
+
+1587567346 c:\users\utilisateur\downloads\prep-20200422t230559z-001\prep\player.h
+	<bits/stdc++.h>
+
+1587669808 source:c:\users\fsociety\downloads\gmail\main.cpp
+	<iostream>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Tour.cpp"
+
+1587667640 c:\users\fsociety\downloads\gmail\roue.cpp
+	"roue.h"
+
+1587667640 c:\users\fsociety\downloads\gmail\roue.h
+	<bits/stdc++.h>
+
+1587667640 c:\users\fsociety\downloads\gmail\puzzle.cpp
+	"Puzzle.h"
+
+1587667640 c:\users\fsociety\downloads\gmail\puzzle.h
+	<bits/stdc++.h>
+
+1587669857 c:\users\fsociety\downloads\gmail\player.cpp
+	"Player.h"
+
+1587669583 c:\users\fsociety\downloads\gmail\player.h
+	<bits/stdc++.h>
+
+1587669048 c:\users\fsociety\downloads\gmail\tour.cpp
+	"Tour.h"
+
+1587669923 c:\users\fsociety\downloads\gmail\tour.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1587674864 source:g:\codeblocks_workspace\gmail\main.cpp
+	<iostream>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+
+1587672623 g:\codeblocks_workspace\gmail\roue.cpp
+	"roue.h"
+
+1587672561 g:\codeblocks_workspace\gmail\roue.h
+	<bits/stdc++.h>
+
+1587674937 g:\codeblocks_workspace\gmail\puzzle.cpp
+	"Puzzle.h"
+
+1587667640 g:\codeblocks_workspace\gmail\puzzle.h
+	<bits/stdc++.h>
+
+1587669857 g:\codeblocks_workspace\gmail\player.cpp
+	"Player.h"
+
+1587669583 g:\codeblocks_workspace\gmail\player.h
+	<bits/stdc++.h>
+
+1587674148 g:\codeblocks_workspace\gmail\game.cpp
+	"Game.h"
+
+1587673751 g:\codeblocks_workspace\gmail\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1587754316 source:g:\codeblocks_workspace\prep\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+
+1587672623 g:\codeblocks_workspace\prep\roue.cpp
+	"roue.h"
+
+1587672561 g:\codeblocks_workspace\prep\roue.h
+	<bits/stdc++.h>
+
+1587674937 g:\codeblocks_workspace\prep\puzzle.cpp
+	"Puzzle.h"
+
+1587667640 g:\codeblocks_workspace\prep\puzzle.h
+	<bits/stdc++.h>
+
+1587669857 g:\codeblocks_workspace\prep\player.cpp
+	"Player.h"
+
+1587669583 g:\codeblocks_workspace\prep\player.h
+	<bits/stdc++.h>
+
+1587754124 g:\codeblocks_workspace\prep\game.cpp
+	"Game.h"
+
+1587749672 g:\codeblocks_workspace\prep\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1588931511 source:c:\users\usre\desktop\nouveau dossier (2)\weel 7000\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1587832300 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\roue.cpp
+	"roue.h"
+
+1587832300 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\roue.h
+	<bits/stdc++.h>
+
+1588931042 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1587832300 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\puzzle.h
+	<bits/stdc++.h>
+
+1588921820 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\player.cpp
+	"Player.h"
+
+1587832300 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\player.h
+	<bits/stdc++.h>
+
+1588929408 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\game.cpp
+	"Game.h"
+	<Windows.h>
+
+1588923127 c:\users\usre\desktop\nouveau dossier (2)\weel 7000\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1589065585 source:c:\users\usre\desktop\nouveau dossier (2)\sds\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\roue.cpp
+	"roue.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\roue.h
+	<bits/stdc++.h>
+
+1589065912 c:\users\usre\desktop\nouveau dossier (2)\sds\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\puzzle.h
+	<bits/stdc++.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\player.cpp
+	"Player.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\player.h
+	<bits/stdc++.h>
+
+1589066618 c:\users\usre\desktop\nouveau dossier (2)\sds\game.cpp
+	"Game.h"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1589068569 source:c:\users\usre\desktop\nouveau dossier (2)\sds - copie\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\roue.cpp
+	"roue.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\roue.h
+	<bits/stdc++.h>
+
+1589074233 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1589072777 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\puzzle.h
+	<bits/stdc++.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\player.cpp
+	"Player.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\player.h
+	<bits/stdc++.h>
+
+1589074494 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\game.cpp
+	"Game.h"
+	<Windows.h>
+
+1589068473 c:\users\usre\desktop\nouveau dossier (2)\sds - copie\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1589158476 source:c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\roue.cpp
+	"roue.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\roue.h
+	<bits/stdc++.h>
+
+1589074233 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1589072777 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\puzzle.h
+	<bits/stdc++.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\player.cpp
+	"Player.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\player.h
+	<bits/stdc++.h>
+
+1589158547 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\game.cpp
+	"Game.h"
+	<Windows.h>
+
+1589158476 c:\users\usre\desktop\nouveau dossier (2)\score\sds - copie\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1589158476 source:c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\roue.cpp
+	"roue.h"
+
+1591432713 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\roue.h
+	<bits/stdc++.h>
+
+1589074233 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1589072777 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\puzzle.h
+	<bits/stdc++.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\player.cpp
+	"Player.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\player.h
+	<bits/stdc++.h>
+
+1591434445 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\game.cpp
+	"Game.h"
+	<Windows.h>
+	<sstream>
+
+1589158476 c:\users\usre\desktop\nouveau dossier (2)\score - copie\sds - copie\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1591960664 source:c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	"roue.cpp"
+	"Puzzle.cpp"
+	"Player.cpp"
+	"Game.cpp"
+	<Windows.h>
+
+1591823069 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\roue.cpp
+	"roue.h"
+	<Windows.h>
+
+1591450055 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\roue.h
+	<bits/stdc++.h>
+
+1591826978 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\puzzle.cpp
+	"Puzzle.h"
+	<Windows.h>
+
+1591826212 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\puzzle.h
+	<bits/stdc++.h>
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\player.cpp
+	"Player.h"
+
+1589065282 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\player.h
+	<bits/stdc++.h>
+
+1591874950 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\game.cpp
+	"Game.h"
+	<Windows.h>
+	<sstream>
+
+1591454769 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\game.h
+	<bits/stdc++.h>
+	"Player.h"
+
+1591448503 source:c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\open.cpp
+	"Open.h"
+	<Windows.h>
+
+1591449961 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\open.h
+	<bits/stdc++.h>
+
+1591449961 c:\users\usre\desktop\nouveau dossier (2)\nouveau dossier\score - copie\sds - copie\open.cpp
+	"Open.h"
+	<Windows.h>
+
