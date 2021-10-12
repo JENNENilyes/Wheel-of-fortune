@@ -1,8 +1,8 @@
 # Wheel-of-fortune
 jeu "Wheel of fortune" sans graphisme 
 
-              W H E E L   O F   F O R T U N E "<<endl;
-The game is made up of three rounds of puzzles, with three puzzles per round
+              W H E E L   O F   F O R T U N E 
+        The game is made up of three rounds of puzzles, with three puzzles per round
         GAME PLAY :
           *The fist to play will be chosen randomly
           *The first puzzle will be shown 
