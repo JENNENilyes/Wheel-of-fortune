@@ -1,5 +1,17 @@
 # Wheel-of-fortune
 jeu "Wheel of fortune" sans graphisme 
+
+              W H E E L   O F   F O R T U N E "<<endl;
+The game is made up of three rounds of puzzles, with three puzzles per round
+        GAME PLAY :
+          *The fist to play will be chosen randomly
+          *The first puzzle will be shown 
+          *You will choose between : Choice 1: Guessing the puzzle solution "<<endl;
+                                     Choice 2: Buying a vowel if the player had enough money (since the second turn)."<<endl;
+                                     Choice 3: Spinning the wheel and guessing a consonant "<<endl;
+
+          *At the end of the 3rd round the player who have more money win the game "<<endl;
+
 ![1](https://user-images.githubusercontent.com/64171895/137002196-61794a11-1ae3-45b4-956a-d4278b0e2a0e.JPG)
 ![2](https://user-images.githubusercontent.com/64171895/137002210-d68dacdc-2587-4eec-be9b-256c69ce4716.JPG)
 ![3](https://user-images.githubusercontent.com/64171895/137002213-ace482a5-9366-4f09-85a2-1297e170bbe1.JPG)
